@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Mr-makono
+- 👀 I’m interested in coding and programming.
+- 🌱 I’m currently learning coding and programming by using different languages like HTML, python , java script and dart flutt  
+- 💞️ I’m looking to collaboration for developing my online platform.
